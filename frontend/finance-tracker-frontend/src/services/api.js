@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Base URL for your backend
-const API_URL = 'https://finance-tracker-backend-hc34.onrender.com';
+const API_URL = 'https://finance-tracker-backend-hc34.onrender.com/api';
 
 // Create axios instance
 const api = axios.create({
